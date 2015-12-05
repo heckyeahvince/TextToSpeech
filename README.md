@@ -1,7 +1,5 @@
 # Text-to-Speech App (converts text into Speech)
 
-text2speechdemo-melvincabatuan created by Classroom for GitHub
-
 This assignment illustrates the conversion of text into speech in Android platform. It also introduces a ListView widget.
 
 
@@ -38,17 +36,6 @@ X is for X-ray
 Y is for Yellow
 Z is for Zebra
 ```
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/da958c3198ce4ba71af0e72780243aed
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-melvincabatuan
 
 ## Keypoints:
 
